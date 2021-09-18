@@ -60,6 +60,12 @@ The following systems can be used
 A Docker image where all systems are installed in is available from the previous edition of the contest. Details on the installation and usage of the Docker image can be found here.
 It is suggested to try your systems of choice within the Docker image, and write us an email in case some wanted feature or system is missing.
 
+Other systems can be used as well, among them
+
+* z3: https://github.com/Z3Prover/z3
+
+We may ask some help to run your solutions.
+
 
 ## Scoring
 
