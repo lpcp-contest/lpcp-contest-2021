@@ -60,6 +60,12 @@ The following systems can be used
 A Docker image where all systems are installed in is available from the previous edition of the contest. Details on the installation and usage of the Docker image can be found here.
 It is suggested to try your systems of choice within the Docker image, and write us an email in case some wanted feature or system is missing.
 
+Other systems can be used as well, among them
+
+* z3: https://github.com/Z3Prover/z3
+
+We may ask some help to run your solutions.
+
 
 ## Scoring
 
@@ -86,7 +92,7 @@ A confirmation email will be sent to you as soon as possible (usually within 24 
 
 Via EasyChair at the following URL: https://easychair.org/conferences/?conf=iclp2021
 
-For each problem you solved, submit a ZIP archive with all files needed to run your solution (use .zip.txt as extension, otherwise EasyChair will complain).
+For each problem you solved, submit a ZIP archive with all files needed to run your solution.
 The title must obey the following format:
 
 ```
@@ -107,4 +113,8 @@ three
 
 ## Problems
 
-Will be provided here.
+* [Problem 1](problem-1)
+* [Problem 2](problem-2)
+* [Problem 3](problem-3)
+* [Problem 4](problem-4)
+* [Problem 5](problem-5)
