@@ -118,3 +118,21 @@ three
 * [Problem 3](problem-3)
 * [Problem 4](problem-4)
 * [Problem 5](problem-5)
+
+
+## Participants
+
+In alphabetical order:
+
+* ASPirant: Jan Behrens. Potsdam University, Germany
+* EyFiBo: Selin Eyupoglu, Muge Fidan, Aysu Bogatarkan. Sabancı University, Turkey
+* One4All: Çağrı Uluç Yıldırımoğlu. Sabancı University, Turkey
+* Picat: Alfredo Beaumont, Peter Bernschneider, Neng-Fa Zhou. Brooklyn College, United States
+* Sebastiano: Sebastiaan J.C. Joosten. Dartmouth College, United States
+* Wolfs31: Giuseppe Mazzotta, Matteo Avolio. University of Calabria, Italy
+
+
+## Winner
+
+TBA on Monday 27 at 17:30 CEST.
+Stay tuned.
