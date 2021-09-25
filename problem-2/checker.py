@@ -27,6 +27,7 @@ import fileinput #line:26
 import re #line:27
 import sys #line:28
 def pretty_print (O0000OO00OO0O00O0 ,OO0O0OO0OOOO000O0 ,cut =None ):#line:31
+    if len(sys.argv) >= 2 and sys.argv[1] == '--quiet': return
     if cut is None :#line:32
         cut =[]#line:33
     print (f'#### STEP {O0000OO00OO0O00O0} ####')#line:34
