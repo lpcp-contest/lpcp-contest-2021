@@ -1,5 +1,7 @@
 # Problem 3
 
+_The problem is [Pipes Puzzle](https://www.puzzle-pipes.com/) and instances are taken/adapted from the game._
+
 I don't know if your name is Mario, Luigi or something else, but it's time to dress your plumber suit!
 
 Look at that mess of pipes!

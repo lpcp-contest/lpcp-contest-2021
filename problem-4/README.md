@@ -1,5 +1,7 @@
 # Problem 4
 
+_The problem is [Ball Sort Puzzle](https://play.google.com/store/apps/details?id=com.spicags.ballsort) and instances are taken/adapted from the game._
+
 Balls... balls everywhere!
 Someone messed up with your precious golf balls, and now they are all mixed in colors.
 This doesn't satisfy your sense of order, so you have to rearrange them in your containers, ie. bottles with space for four balls.

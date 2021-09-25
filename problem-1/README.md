@@ -1,5 +1,7 @@
 # Problem 1
 
+_The problem is based on the [Crazy Frog Puzzle](https://www.nearly42.org/vdisk/cstheory/crazyfrog.pdf) and instances are randomly generated._
+
 You have the control of a little frog, capable of very long jumps, and today is your lucky day!
 
 The little frog just woke up in an SxS land, with few obstacles and a lot of insects.
