@@ -127,7 +127,7 @@ In alphabetical order:
 * ASPirant: Jan Behrens. Potsdam University (Germany)
 * EyFiBo: Selin Eyupoglu, Muge Fidan, Aysu Bogatarkan. Sabancı University (Turkey)
 * One4All: Çağrı Uluç Yıldırımoğlu. Sabancı University (Turkey)
-* Picat: Alfredo Beaumont, Peter Bernschneider, Neng-Fa Zhou. Poland, Germany, Brooklyn College (United States)
+* Picat: Alfredo Beaumont, Peter Bernschneider, Neng-Fa Zhou. Basque Country, Germany, Brooklyn College (United States)
 * Sebastiano: Sebastiaan J.C. Joosten. Dartmouth College (United States)
 * Wolfs31: Giuseppe Mazzotta, Matteo Avolio. University of Calabria (Italy)
 
