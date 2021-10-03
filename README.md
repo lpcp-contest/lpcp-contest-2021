@@ -134,13 +134,13 @@ In alphabetical order:
 
 ### 🏆 Winner
 
-__Picat team: Alfredo Beaumont, Peter Bernschneider, Neng-Fa Zhou__
+_Picat team: Alfredo Beaumont, Peter Bernschneider, Neng-Fa Zhou_
 
 Instances solved: 50/50
 
 
 ### 🥈 Runner Up
 
-__Sebastiano team: Sebastiaan J.C. Joosten__
+_Sebastiano team: Sebastiaan J.C. Joosten_
 
 Instances solved: 46/50
