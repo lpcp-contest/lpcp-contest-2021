@@ -132,7 +132,15 @@ In alphabetical order:
 * Wolfs31: Giuseppe Mazzotta, Matteo Avolio. University of Calabria (Italy)
 
 
-## Winner
+### 🏆 Winner
 
-TBA on Monday 27 at 17:30 CEST.
-Stay tuned.
+__Picat team: Alfredo Beaumont, Peter Bernschneider, Neng-Fa Zhou__
+
+Instances solved: 50/50
+
+
+### 🥈 Runner Up
+
+__Sebastiano team: Sebastiaan J.C. Joosten__
+
+Instances solved: 46/50
